@@ -1,0 +1,1 @@
+import{Q as r}from"./QPage.b3031da7.js";import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";import{l as s,m as o,n as i,P as a}from"./index.a5b05cd4.js";const l={};function c(n,e){return s(),o(r,null,{default:i(()=>e[0]||(e[0]=[a("div",{class:"row"},[a("div",{class:"page-title"},"Cihazlar")],-1)])),_:1})}var d=t(l,[["render",c]]);export{d as default};
